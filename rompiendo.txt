@@ -1,0 +1,27 @@
+REPASO TOTAL CURSO GIT Y GITHUB
+
+Esta es mi primera practica con git después 
+de terminar todo el curso de git y github
+entonces iniciare con los primeros comando
+como los son git init, status, add, rm, rm --cached 
+, commit, config  --global user.name "nombre",
+config --global user.email "correo", cat.
+
+para la eliminación de archivos en el area staging
+y del proximo commit usamos el comando git rm --cached rompiendo.txt
+pero los mantiene en el dico duro, para liminarlos de 
+git y del disco duro, para liminar del disco duro se
+usa el comando git rm --force, finalmente git reset
+HEAD para sacar archivos del areas de staging, no se borran.
+
+
+
+
+
+
+
+
+
+
+
+
