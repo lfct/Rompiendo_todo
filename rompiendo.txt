@@ -41,6 +41,16 @@ git pull origin master : traemos de github (origin) a git (master).
 git pull origin master --llow-unrelated-historias: fusiona las histo-
 rias de github (origin) con con git (master).
 
+RAMAS (BRANCH)
+
+git branch cabecera: crea la rama cabecera
+-git checkout cabecera: me muevo a la rama cabecera
+-git merge cabecera: estando em master traigo el ultim commit de la 
+rama cabecera a master y los uno.
+
+
+
+
 
 
 
