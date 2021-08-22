@@ -14,13 +14,7 @@ git y del disco duro, para liminar del disco duro se
 usa el comando git rm --force, finalmente git reset
 HEAD para sacar archivos del areas de staging, no se borran.
 
-GITHUB:
-
-Github es un servidor remoto de repositorio, trabajos 
-localemente y enviamos o traemos el repositorio remoto
-para ello existen varios comando importantes.
-
-Configurasion de las llaves SSH en localemente
+[ Configurasion de las llaves SSH en localemente ]
 
 - en nuestro entorno local creamos una llave local y publica, la
 llave publica va a github.
