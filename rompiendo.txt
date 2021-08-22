@@ -20,6 +20,27 @@ Github es un servidor remoto de repositorio, trabajos
 localemente y enviamos o traemos el repositorio remoto
 para ello existen varios comando importantes.
 
+Configurasion de las llaves SSH en localemente
+
+- en nuestro entorno local creamos una llave local y publica, la
+llave publica va a github.
+
+- se conecta git and github con SSH.
+
+- las llaves no son por repositorio sino por persona.
+
+- el procedimiento para crear llave en github con SSH es el siguiente:
+vasmos a perfil github-settin-SSH and GPG-NEW SSH key-title-pegar
+llave publica.
+
+- en github - clone or download copiamos la url de SSH
+- en el repositorio git remote set-url origin url de SSH.
+- antes de hacer un commit hay que traer la última versión del servidor.
+
+
+
+
+
 
 
 
