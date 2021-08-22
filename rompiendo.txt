@@ -16,9 +16,33 @@ HEAD para sacar archivos del areas de staging, no se borran.
 
 GITHUB:
 
-Github es un servidor remoto de repositorio, trabajos 
+Github es un servidor remoto de repositorio "red social de programadores", trabajos 
 localemente y enviamos o traemos el repositorio remoto
 para ello existen varios comando importantes.
+
+git clone url_del_servidor_remoto: nos permite descargar los archivos 
+de la última versión de la rama principal y toda la historia 
+de commit en la carpeta .git 
+
+git pull: traemos todo del repositorio del servidor remoto a nuestro
+repositorio local.
+
+git push: enviamos del repositorio local al respositorio remoto.
+
+clone or download (HTTPS): Trae todas las cosas de github a git.
+
+git remote add origin https://git... : decirle a git que vamos
+agregar un origin para hacerle pull (traer) y push (enviar).
+
+git push origin master: git enviale a origin la rama master.
+
+git pull origin master : traemos de github (origin) a git (master).
+
+git pull origin master --llow-unrelated-historias: fusiona las histo-
+rias de github (origin) con con git (master).
+
+
+
 
 
 
